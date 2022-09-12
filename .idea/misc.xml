@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/remote-chunking-manager" />
+    <file type="web" url="file://$PROJECT_DIR$/remote-chunking-worker-1" />
+    <file type="web" url="file://$PROJECT_DIR$/remote-chunking-worker-2" />
+    <file type="web" url="file://$PROJECT_DIR$/remote-partitioning-manager" />
+    <file type="web" url="file://$PROJECT_DIR$/remote-partitioning-worker-1" />
+    <file type="web" url="file://$PROJECT_DIR$/remote-partitioning-worker-2" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
